@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\bin\Debug\netcoreapp2.1\Ventas.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\bin\Debug\netcoreapp2.1\Ventas.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\bin\Debug\netcoreapp2.1\Ventas.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\bin\Debug\netcoreapp2.1\Ventas.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\bin\Debug\netcoreapp2.1\Ventas.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\obj\Debug\netcoreapp2.1\Ventas.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\obj\Debug\netcoreapp2.1\Ventas.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\obj\Debug\netcoreapp2.1\Ventas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\obj\Debug\netcoreapp2.1\Ventas.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\obj\Debug\netcoreapp2.1\Ventas.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Ventas\obj\Debug\netcoreapp2.1\Ventas.pdb

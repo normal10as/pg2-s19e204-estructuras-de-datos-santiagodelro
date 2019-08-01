@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Media", "Media\Media.vbproj", "{AC28688A-A3F1-444E-AEB8-5A17C269035B}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Media", "Media\Media.vbproj", "{AC28688A-A3F1-444E-AEB8-5A17C269035B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ventas", "Ventas\Ventas.vbproj", "{C7B9A256-7B25-43A4-9DAD-C1BD341A4E31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AC28688A-A3F1-444E-AEB8-5A17C269035B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC28688A-A3F1-444E-AEB8-5A17C269035B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC28688A-A3F1-444E-AEB8-5A17C269035B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B9A256-7B25-43A4-9DAD-C1BD341A4E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B9A256-7B25-43A4-9DAD-C1BD341A4E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B9A256-7B25-43A4-9DAD-C1BD341A4E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B9A256-7B25-43A4-9DAD-C1BD341A4E31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
