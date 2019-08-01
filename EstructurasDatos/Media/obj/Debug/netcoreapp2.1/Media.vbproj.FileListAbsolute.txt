@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\bin\Debug\netcoreapp2.1\Media.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\bin\Debug\netcoreapp2.1\Media.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\bin\Debug\netcoreapp2.1\Media.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\bin\Debug\netcoreapp2.1\Media.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\bin\Debug\netcoreapp2.1\Media.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\obj\Debug\netcoreapp2.1\Media.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\obj\Debug\netcoreapp2.1\Media.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\obj\Debug\netcoreapp2.1\Media.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\obj\Debug\netcoreapp2.1\Media.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\obj\Debug\netcoreapp2.1\Media.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e204-estructuras-de-datos-santiagodelro\EstructurasDatos\Media\obj\Debug\netcoreapp2.1\Media.pdb
